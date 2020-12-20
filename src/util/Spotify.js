@@ -1,6 +1,6 @@
 
 const clientID = 'e8dd1f48b0c040568b1b0f3726a875e1';
-const redirectUrl = 'myFirstSurge.surge.sh';
+const redirectUrl = 'http://shauniesSurge.surge.sh';
 
 let accessToken;
 let expiresIn;
